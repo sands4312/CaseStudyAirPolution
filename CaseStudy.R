@@ -138,26 +138,3 @@ pmsub <- mutate(pmsub, date = as.Date(as.character(Date), "%Y%m%d"))
        color = factor(State.Code),
        geom = c("point", "line"))
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
